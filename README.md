@@ -2,12 +2,12 @@
 import Desenvolvedor from 'jvfonseca1';
 class SobreMim extends Desenvolvedor {
   nome     = 'João Victor Fonseca';
-  area    = 'Suporte de TI';
-  trabalho  = 'Elis Brasil';
+  area    = 'Desenvolvimento';
+  trabalho  = 'Ius Natura';
   local = 'Belo Horizonte - MG';
 }
 class Skills extends Desenvolvedor {
-  linguagens  = ['C++, HTML, JavaScript, CSS, ReactJS, React Native'];
+  linguagens  = ['C++, HTML, JavaScript, CSS, ReactJS, React Native, C#'];
 }
 ```
 
