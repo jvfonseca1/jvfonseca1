@@ -7,7 +7,7 @@ class SobreMim extends Desenvolvedor {
   local = 'Belo Horizonte - MG';
 }
 class Skills extends Desenvolvedor {
-  linguagens  = ['C++, HTML, JavaScript, CSS, ReactJS, React Native, C#'];
+  linguagens  = ['C++, HTML, JavaScript, CSS, ReactJS, React Native, C#, Python'];
 }
 ```
 
